@@ -17,5 +17,10 @@
         "path": "./themes/nullforge-dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sailfact/nullforge-dark.git"
   }
 }
+  
