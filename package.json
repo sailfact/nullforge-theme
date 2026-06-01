@@ -1,7 +1,7 @@
 {
-  "name": "nullforge-dark",
-  "displayName": "nullforge-dark",
-  "description": "nullforge-dark",
+  "name": "nullforge",
+  "displayName": "nullforge",
+  "description": "nullforge theme for Visual Studio Code",
   "publisher": "sailfact",
   "version": "0.0.1",
   "engines": {
@@ -14,15 +14,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "nullforge-dark",
+        "label": "nullforge-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/nullforge-dark-color-theme.json"
+        "path": "./themes/nullforge-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sailfact/nullforge-dark.git"
+    "url": "https://github.com/sailfact/nullforge-theme.git"
   }
 }
   
