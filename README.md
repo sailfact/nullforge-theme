@@ -1,6 +1,6 @@
 # nullforge README
 
-[nullforge-dark](https://github.com/sailfact/nullforge-theme)
+[nullforge-theme](https://github.com/sailfact/nullforge-theme)
 
 ## Working with Markdown
 
