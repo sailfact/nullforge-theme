@@ -2,6 +2,7 @@
   "name": "nullforge-dark",
   "displayName": "nullforge-dark",
   "description": "nullforge-dark",
+  "publisher": "sailfact",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.120.0"
@@ -9,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
