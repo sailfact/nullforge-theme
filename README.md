@@ -1,4 +1,5 @@
-# nullforge README
+# nullforge
+*build from nothing.*
 
 [nullforge-theme](https://github.com/sailfact/nullforge-theme)
 
