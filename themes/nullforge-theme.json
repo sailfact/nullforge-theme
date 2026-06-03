@@ -251,6 +251,32 @@
     "merge.incomingHeaderBackground":             "#3d5a7588",
     "merge.incomingContentBackground":            "#3d5a7544",
 
+    // editor widgets (suggest, hover, parameter hints, find, etc)
+    "editorWidget.background":              "#0f1e2e",
+    "editorWidget.foreground":              "#f2ece6",
+    "editorWidget.border":                  "#1a2a3a",
+    "editorWidget.resizeBorder":            "#c4622d",
+
+    "editorSuggestWidget.background":       "#0f1e2e",
+    "editorSuggestWidget.foreground":       "#f2ece6",
+    "editorSuggestWidget.border":           "#1a2a3a",
+    "editorSuggestWidget.selectedBackground":"#1a2a3a",
+    "editorSuggestWidget.selectedForeground":"#f2ece6",
+    "editorSuggestWidget.highlightForeground":"#c4622d",
+    "editorSuggestWidget.focusHighlightForeground":"#e8a882",
+
+    "editorHoverWidget.background":         "#0f1e2e",
+    "editorHoverWidget.foreground":         "#f2ece6",
+    "editorHoverWidget.border":             "#1a2a3a",
+    "editorHoverWidget.statusBarBackground":"#06101a",
+
+    "editorGhostText.foreground":           "#3d5a75",
+
+    "editorMarkerNavigation.background":    "#0f1e2e",
+    "editorMarkerNavigationError.background":   "#a13c2a",
+    "editorMarkerNavigationWarning.background": "#8f4420",
+    "editorMarkerNavigationInfo.background":    "#1a2a3a",
+
     // misc focus + borders
     "focusBorder":                                "#c4622d",
     "foreground":                                 "#f2ece6",
